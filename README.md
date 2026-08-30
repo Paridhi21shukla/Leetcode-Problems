@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
