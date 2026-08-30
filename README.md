@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
