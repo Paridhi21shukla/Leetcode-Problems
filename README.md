@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0137-single-number-ii) |
+| [1929-concatenation-of-array](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0137-single-number-ii) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
