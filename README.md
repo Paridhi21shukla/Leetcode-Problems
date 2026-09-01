@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
