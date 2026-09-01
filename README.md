@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0485-max-consecutive-ones](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
