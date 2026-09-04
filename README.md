@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0824-goat-latin](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0824-goat-latin) |
 ## Stack
 |  |
 | ------- |
