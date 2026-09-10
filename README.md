@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0441-arranging-coins](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0278-first-bad-version](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Tree
