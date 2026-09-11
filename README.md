@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0824-goat-latin](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0824-goat-latin) |
 ## Stack
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Database
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0278-first-bad-version) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
