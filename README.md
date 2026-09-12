@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
