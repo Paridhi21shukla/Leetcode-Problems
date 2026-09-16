@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
