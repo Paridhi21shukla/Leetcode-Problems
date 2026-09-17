@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
