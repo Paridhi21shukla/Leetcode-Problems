@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 ## Manacher
 |  |
 | ------- |
@@ -205,5 +207,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
