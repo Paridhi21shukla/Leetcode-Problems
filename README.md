@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0441-arranging-coins](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0264-ugly-number-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0860-lemonade-change) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
