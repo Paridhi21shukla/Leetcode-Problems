@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Database
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
