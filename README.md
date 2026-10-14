@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0610-triangle-judgement) |
+| [1068-product-sales-analysis-i](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1683-invalid-tweets) |
