@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0824-goat-latin](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0824-goat-latin) |
 ## Stack
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0392-is-subsequence](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
 | ------- |
