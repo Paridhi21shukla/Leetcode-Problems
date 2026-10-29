@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0824-goat-latin](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0824-goat-latin) |
+| [1021-remove-outermost-parentheses](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Paridhi21shukla/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
